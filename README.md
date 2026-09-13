@@ -3,3 +3,6 @@ It is just a fun project which I did back when I was learning react while simult
 
 # How to use this?
 It's pretty straightforward! Just set up this React project on your system and launch the site. **You gotta SAY the NAME**. You'd be only able to do so if you know the Breaking Bad reference where Walter goes Badass.
+
+# Note 
+All the copyright of the images goes to the creators of the show - Breaking Bad.
