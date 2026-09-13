@@ -1,0 +1,19 @@
+.appContainer {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .sayNameTitle {
+    color: rgb(187, 179, 179);
+    font-size: 5rem;
+    font-style: italic;
+    font-family:monospace;
+  }
+
+  .nameForm {
+   background-color: black;
+  }
+
+
+  
